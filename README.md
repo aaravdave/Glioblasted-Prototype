@@ -10,11 +10,11 @@ This study examined how glioblastoma, a high-grade cancer originating in brain o
 *Coming Soon*
 
 ## Recognizations
-Best in Category, Robotics and Intelligent Machines, 2024 Georgia Science and Engineering Fair
-Nomination for the 2024 Thermo Fisher Scientific Junior Innovators Challenge, recieved through 2024 Georgia Science and Engineering Fair
-University of Georgia Mathematics Department Special Award, 2024 Georgia Science and Engineering Fair
-1st Honors (top 10% in fair), 2024 Georgia Science and Engineering Fair
-Best in Fair, 2024 Abraham Baldwin Agricultural College Regional Science and Engineering Fiar
+- Best in Category, Robotics and Intelligent Machines, 2024 Georgia Science and Engineering Fair
+- Nomination for the 2024 Thermo Fisher Scientific Junior Innovators Challenge, recieved through 2024 Georgia Science and Engineering Fair
+- University of Georgia Mathematics Department Special Award, 2024 Georgia Science and Engineering Fair
+- 1st Honors (top 10% in fair), 2024 Georgia Science and Engineering Fair
+- Best in Fair, 2024 Abraham Baldwin Agricultural College Regional Science and Engineering Fiar
 
 ## Technical Specifications
 This software was made in Python with primarily the module Scikit-learn.
