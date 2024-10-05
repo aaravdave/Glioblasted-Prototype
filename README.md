@@ -25,4 +25,4 @@ This software, as with all subsequent versions of the software, is protected by 
 > More information is in the file titled `LICENSE.md`.
 
 ## Contacts
-For questions concerning the contents of this repository (including this README file), please contact aaravhdave \[at] gmail \[dot] com.
+For questions concerning the contents of this repository, please contact aaravhdave \[at] gmail \[dot] com.
