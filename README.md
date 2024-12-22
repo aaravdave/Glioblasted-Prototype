@@ -1,4 +1,5 @@
 # Glioblasted (Prototype)
+Aarav H. Dave (Lowndes High School, Valdosta, GA)
 
 ## Summary
 Glioblasted is a software utilizing image classification to detect glioblastoma, a high-grade, aggressive form of brain and/or spine cancer, given images of H&E stained slides. Glioblasted has an accuracy of 98% and is trained on data from The Cancer Imaging Archive (TCIA)'s University of Pennsylvania Glioblastoma Multiforme (UPENN-GBM) dataset (Link: [UPENN-GBM](https://pathdb.cancerimagingarchive.net/eaglescope/dist/?configurl=%2Fsystem%2Ffiles%2Fcollectionmetadata%2F202401%2Fcohort_builder_01-27-2024.json&filterState=%5B%7B%22id%22%3A%22collection%22%2C%22title%22%3A%22TCIA+Collection%22%2C%22field%22%3A%22collection%22%2C%22operation%22%3A%22eq%22%2C%22values%22%3A%22UPENN-GBM%22%7D%5D)). This repository hosts a prototype (v0.1.0α) for instruction on elementary image classification.
@@ -22,7 +23,9 @@ This software was made in Python with primarily the module Scikit-learn.
 
 ## License
 This software, as with all subsequent versions of the software, is protected by the CC-BY-NC-ND license. In summary, this does not allow commercial usage, distribution, or distribution of modifications of the software. In additon, you are required to credit authorship and state any changes you may have made.
-> More information is in the file titled `LICENSE`.
+> For more information, please refer to the `LICENSE` file.
+
+The author has no potential conflicts of interest to disclose.
 
 ## Contacts
 For questions concerning the contents of this repository, please contact aaravhdave \[at] gmail \[dot] com.
