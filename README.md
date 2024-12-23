@@ -1,3 +1,4 @@
+![Glioblasted Logo](logo.png)
 # Glioblasted (Prototype)
 Aarav H. Dave<sup>1</sup>
 
