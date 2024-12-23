@@ -11,7 +11,7 @@ This study examined how glioblastoma, a high-grade cancer originating in brain o
 ## Paper
 *Coming Soon*
 
-## Recognizations
+## Recognitions
 - Best in Category, Robotics and Intelligent Machines, 2024 Georgia Science and Engineering Fair
 - Nomination for the 2024 Thermo Fisher Scientific Junior Innovators Challenge, recieved through 2024 Georgia Science and Engineering Fair
 - University of Georgia Mathematics Department Special Award, 2024 Georgia Science and Engineering Fair
